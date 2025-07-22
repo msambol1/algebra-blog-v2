@@ -1,0 +1,102 @@
+
+    @import url('https://fonts.googleapis.com/css2?family=Baskervville:ital,wght@0,400..700;1,400..700&family=DM+Serif+Text:ital@0;1&family=Figtree:ital,wght@0,300..900;1,300..900&family=Pacifico&family=Roboto+Slab:wght@100..900&display=swap');
+
+    * {
+        margin:0;
+    }
+
+    .primary-color{
+        color: #006699;
+    }
+
+    .h1{
+        font-family: "Roboto Slab", serif;
+        font-weight:700;
+        font-size:54px;
+        line-height: 100%;
+    }
+    .h2{
+        font-family:"Roboto Slab", serif;
+        font-weight: 400;
+        font-size: 36px;
+        line-height: 1.25;
+    }
+
+    .body{
+        font-family:"Roboto Slab", serif ;
+        font-weight: 300;
+        font-size:24px;
+        line-height: 1.5;
+        text-align: justify;
+    }
+    .metadata {
+        font-family: "Roboto Slab", serif;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 1.25;
+    }
+    .link {
+        font-family: "Roboto Slab", serif;
+        font-weight:300;
+        font-size: 16px;
+        line-height: 1.25;
+        text-decoration: none;
+    }
+    .wrapper {
+        width:1152px;
+        height:100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .small{
+        font-family: "Roboto Slab", serif;
+        font-weight: 300;
+        font-size:12px;
+        line-height: 1.5;
+
+    }
+    header{
+        margin-top:54px;
+        margin-bottom: 81px;
+    }
+    header .h1 {
+        margin-bottom: 14px;
+    }
+    article {
+        margin-top:81px;
+
+    }
+    article .link{
+        margin-bottom:54px;    
+    }
+
+    article .h2{
+        margin-bottom:36px;
+    }
+    article .metadata{
+        margin-bottom:36px;
+    }
+    .img{
+        width:736px;
+        height: 414px;
+        margin-left:auto;
+        margin-right: auto;
+    }
+    article .img-icon{
+        margin-right:8px;
+        width:16px;
+        height: 16px;
+
+    }
+    article .img{
+        margin-top:36px;
+        margin-bottom:36px;
+    }
+    article .p{
+        margin-bottom: 54px ;
+    }
+footer{
+    margin-top:81px;
+    margin-bottom:54px;
+    text-align: center;
+}
